@@ -16,7 +16,7 @@ const projects = [
     image: 'assets/ads1.png',
     description:
       'Kordonboyu Caddesi üzerinde bulunan kentsel dönüşüm projemiz, panoramik balonlarla kesintisiz deniz manzarasını kullanıcılarına sunmaktadır.',
-    gallery: ['assets/ads1.png', 'assets/project2.jpg', 'assets/project3.jpg'],
+    gallery: ['assets/ads2.png', 'assets/ads3.png', 'assets/ads5.png', 'assets/ads6.png'],
   },
   {
     title: 'Stone Apartment',
