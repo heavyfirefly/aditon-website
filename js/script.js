@@ -8,15 +8,15 @@ const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)
 
 const projects = [
   {
-    title: 'Terrace House',
-    category: 'Residential',
+    title: 'Akbulut Deniz Sitesi',
+    category: 'Konut + Ticari',
     year: '2026',
     location: 'Büyükçekmece',
-    area: '420 m²',
-    image: 'assets/project1.jpg',
+    area: '32420 m²',
+    image: 'assets/ads1.png',
     description:
-      'A compact residential study balancing deep shade, privacy and panoramic light across layered concrete terraces.',
-    gallery: ['assets/project1.jpg', 'assets/project2.jpg', 'assets/project3.jpg'],
+      'Kordonboyu Caddesi üzerinde bulunan kentsel dönüşüm projemiz, panoramik balonlarla kesintisiz deniz manzarasını kullanıcılarına sunmaktadır.',
+    gallery: ['assets/ads1.png', 'assets/project2.jpg', 'assets/project3.jpg'],
   },
   {
     title: 'Stone Apartment',
