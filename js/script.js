@@ -47,7 +47,6 @@ function setHeaderState() {
   backTop.classList.toggle('visible', window.scrollY > window.innerHeight * 0.7);
 
   }
-}
 
 function toggleMenu(forceOpen) {
   const open = typeof forceOpen === 'boolean' ? forceOpen : !navMenu.classList.contains('is-open');
