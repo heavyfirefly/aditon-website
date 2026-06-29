@@ -47,8 +47,6 @@ function setHeaderState() {
   header.classList.toggle('scrolled', isScrolled);
   backTop.classList.toggle('visible', window.scrollY > window.innerHeight * 0.7);
 
-  if (parallaxImage && !prefersReducedMotion) {
-    parallaxImage.style.transform = 'translate3d(0, ' + window.scrollY * 0.12 + 'px, 0) scale(1.04)';
   }
 }
 
