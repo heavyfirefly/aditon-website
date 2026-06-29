@@ -3,7 +3,6 @@ const navToggle = document.querySelector('[data-nav-toggle]');
 const navMenu = document.querySelector('[data-nav-menu]');
 const navLinks = [...document.querySelectorAll('.nav-link')];
 const backTop = document.querySelector('[data-back-top]');
-const parallaxImage = document.querySelector('[data-parallax]');
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 const projects = [
